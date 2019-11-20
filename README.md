@@ -7,6 +7,8 @@
 **1.4.** Envio de mensagens sem sentido (como sequências longas de stickers ou memes que não se encaixam com o tópico sendo discutido);<br />
 **1.5.** Discussões acaloradas fora do tópico do grupo, especialmente aquelas envolvendo religião, política e outros assuntos polêmicos;<br />
 **1.6.** “Drive by Shooting” (apenas aparecer no grupo para promover o seu produto ou evento, sem contribuir com mais nada);<br />
+<br />
+**1.7.** Proibido qualquer manifestação de cunho racista ou homofóbico, contra qualquer membro do grupo ou pessoas externas (especialmente indianos, que são nossos amigos do YouTube);
 <br /><br />
 ## 2. Obtendo ajuda:<br />
 **2.1.** Mantenha a sua pergunta dentro do tópico do grupo. O grupo foi feito para ajudar a todos com problemas relacionados à programação, assim como discutir linguagens, algoritmos, etc. Mantenha a sua pergunta dentro do tópico do grupo, sempre que possível;<br />
