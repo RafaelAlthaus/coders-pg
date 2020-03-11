@@ -12,7 +12,8 @@
 <br /><br />
 ## 2. Obtendo ajuda:<br />
 **2.1.** Mantenha a sua pergunta dentro do tópico do grupo. O grupo foi feito para ajudar a todos com problemas relacionados à programação, assim como discutir linguagens, algoritmos, etc. Mantenha a sua pergunta dentro do tópico do grupo, sempre que possível;<br />
-**2.2.** O grupo não vai fazer o seu trabalho de faculdade. Perguntas como “Meu trabalho da faculdade é fazer X” são bem vindas, desde que o trabalho já tenha sido iniciado;<br />
-**2.3.** Uma vez feita a sua pergunta, esclarecimentos serão necessários. Responda as dúvidas daqueles tentando ajudar;<br />
-**2.4.** Não chame outros membros no privado para dúvidas comuns. Salvo casos especiais, discuta as suas dúvidas em público, no grupo. Isso permite que mais de uma pessoa o ajude;
+**2.2.** Nenhuma pergunta é idiota. Um dia fomos todos novatos, portanto, seja cordial ao responder uma dúvida. `"Pesquisa no Google"` não é resposta, e falta de respeito não será tolerada;<br />
+**2.3.** O grupo não vai fazer o seu trabalho de faculdade. Perguntas como “Meu trabalho da faculdade é fazer X” são bem vindas, desde que o trabalho já tenha sido iniciado;<br />
+**2.4.** Uma vez feita a sua pergunta, esclarecimentos serão necessários. Responda as dúvidas daqueles tentando ajudar;<br />
+**2.5.** Não chame outros membros no privado para dúvidas comuns. Salvo casos especiais, discuta as suas dúvidas em público, no grupo. Isso permite que mais de uma pessoa o ajude;
 **2.5.** Chegou agora? Se apresente! (Ou pague cerveja);
